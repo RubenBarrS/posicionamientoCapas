@@ -1,0 +1,46 @@
+.d1{
+	border: solid 2px #4D0084;
+	width: 100px;
+	height: 100px;
+	background: #65FEFE;
+}
+
+#d1{
+	position: relative;
+	left: 120px;
+	bottom: 104px;
+	border: solid 2px #4D0084;
+	width: 100px;
+	height: 100px;
+	background: #65FEFE;
+}
+
+.d2{
+	position: relative;
+	left: 240px;
+	bottom: 208px;
+	border: solid 2px #4D0084;
+	width: 100px;
+	height: 100px;
+	background: #65FEFE;
+}
+
+#d2{
+	border: 2px solid #4D0084;
+	background: #65FEFE;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 360px;
+	bottom: 312px;
+}
+
+.d3{
+	border: 2px solid #4D0084;
+	background: #65FEFE;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 480px;
+	bottom: 416px;
+}
